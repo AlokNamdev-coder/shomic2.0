@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104054705317",
+    "project_id": "shomic2",
+    "storage_bucket": "shomic2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104054705317:android:a68eaece6ccef5d750914c",
+        "android_client_info": {
+          "package_name": "com.example.shomic_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLLAcJGD0uEj2QnbP7lml9meFYbsMVp7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
